@@ -1,5 +1,6 @@
 # Desafio de Projeto da DIO - **Construindo seu Primeiro Projeto Lógico de Banco de Dados (ECOMMERCE)**
-#### Projeto proposto no Bootcamp [Geração Tech Unimed-BH - Ciência de Dados](https://www.dio.me/bootcamp/geracao-tech-unimed-bh-ciencia-de-dados?ref=CG-bootcamp-unimed-bh-ciencia-de-dados) na plataforma [DIO.](https://www.dio.me/)
+#### Projeto proposto no Bootcamp [Suzano - Análise de Dados com Power BI
+Suzano - Análise de Dados com Power BI](https://web.dio.me/track/coding-future-suzano-analise-dados) na plataforma [DIO.](https://www.dio.me/)
 
 ## Descrição do Desafio
 _"Neste desafio, iremos replicar a modelagem do projeto lógico de banco de dados para um cenário de e-commerce."_ 
